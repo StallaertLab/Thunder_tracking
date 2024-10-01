@@ -49,12 +49,6 @@ ouput:
 - database with the tracking solution (Ultrack format)
 - optional: masks labeled by tracks (zarr)
 
-**04_translate_db.ipynb**
+**04_view_tracking.ipnb**
 
-input:
-
-- database with the tracking solution (Ultrack format)
-
-output:
-
-- database with the tracking solution (Track Gardener format)
+- a short script to visualize tracked labels in napari
